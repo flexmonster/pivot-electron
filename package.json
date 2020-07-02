@@ -8,7 +8,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Flexmonster",
-  "license": "ISC",
   "devDependencies": {
     "electron": "^9.0.4"
   },
