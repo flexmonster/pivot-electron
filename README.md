@@ -1,5 +1,5 @@
 # Flexmonster Pivot Table &amp; Charts integration with Electron
-[![Flexmonster Pivot Table & Charts](https://s3.amazonaws.com/flexmonster/github/fm-github-cover.png)](https://flexmonster.com)
+[![Flexmonster Pivot Table & Charts](https://www.flexmonster.com/fm_uploads/2020/06/GitHub_fm.png)](https://flexmonster.com)
 
 
 ## How to run the Sample Project: 
