@@ -1,24 +1,42 @@
-# Flexmonster Pivot Table &amp; Charts integration with Electron
+# Flexmonster Pivot Table &amp; Charts integration with Electron.js
 [![Flexmonster Pivot Table & Charts](https://www.flexmonster.com/fm_uploads/2020/06/GitHub_fm.png)](https://flexmonster.com)
+Website: www.flexmonster.com
 
+## Flexmonster Pivot Table & Charts
 
-## How to run the Sample Project: 
+Flexmonster Pivot is a powerful Javascript tool for interactive web reporting. It allows you to visualize and analyze data from JSON, CSV, SQL, NoSQL, Elasticsearch, and OLAP data sources fast and conveniently. Flexmonster is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
+
+This repository holds the source code for a simple [Electron.js](https://www.electronjs.org/) and Flexmonster Pivot Table & Charts project:
+
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+
+## Prerequisites
+
+To run a simple application with the Electron.js pivot table, you will need Node.js and npm. [Get it here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) if it's not already installed on your machine.
 
  
-###### 1) Clone the sample project: 
+## Installation
+
+1. Download the `.zip` archive with the sample project or clone it from GitHub with the following command:
 
 ```bash
 git clone https://github.com/flexmonster/pivot-electron.git && cd pivot-electron
 ```
 
-###### 2) Install the dependencies defined in `package.json`: 
+2. Install the npm packages described in `package.json`: 
 
 ```bash
-npm i
+npm install
 ```
 
-###### 3) Run the sample project: 
+3. Run the sample project: 
 
 ```bash
 npm start 
 ```
+
+## Usage
+
+For details on usage, see the [Flexmonster integration with Electron](https://www.flexmonster.com/doc/integration-with-electron-js/) guide.
