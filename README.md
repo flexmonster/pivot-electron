@@ -1,6 +1,6 @@
 # Flexmonster Pivot Table &amp; Charts integration with Electron.js
-[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://flexmonster.com/?r=rm_electron)
-Website: [www.flexmonster.com](https://www.flexmonster.com/?r=rm_electron)
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://flexmonster.com/?r=gh_electron)
+Website: [www.flexmonster.com](https://www.flexmonster.com/?r=gh_electron)
 
 ## Flexmonster Pivot Table & Charts
 
@@ -39,4 +39,4 @@ npm start
 
 ## Usage
 
-For details on usage, see the [Flexmonster integration with Electron](https://www.flexmonster.com/doc/integration-with-electron-js/?r=rm_electron) guide.
+For details on usage, see the [Flexmonster integration with Electron](https://www.flexmonster.com/doc/integration-with-electron-js/?r=gh_electron) guide.
