@@ -9,7 +9,7 @@
   },
   "author": "Flexmonster",
   "devDependencies": {
-    "electron": "^19.0.3"
+    "electron": "^22.0.0"
   },
   "dependencies": {
     "flexmonster": "latest"
