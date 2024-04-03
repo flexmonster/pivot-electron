@@ -4,15 +4,18 @@ Website: [www.flexmonster.com](https://www.flexmonster.com/?r=gh_electron)
 
 ## Flexmonster Pivot Table & Charts
 
-Flexmonster Pivot is a powerful JavaScript tool for interactive web reporting. It allows you to visualize and analyze data from JSON, CSV, SQL, NoSQL, Elasticsearch, and OLAP data sources quickly and conveniently. Flexmonster is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
+Flexmonster Pivot Table & Charts is a powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your Electron data visualization project. The tool supports popular frameworks like Angular, React, Vue, Blazor, and [more](https://www.flexmonster.com/doc/available-tutorials-integration?r=sample_electron). Also, Flexmonster connects to any data source, including SQL and NoSQL databases, JSON and CSV files, OLAP cubes, and Elasticsearch.
 
 This repository contains a sample [Electron.js](https://www.electronjs.org/) project for Flexmonster Pivot Table & Charts.
 
 Table of contents:
 
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Related Flexmonster docs](#related-flexmonster-docs)
+* [Prerequisites](#prerequisites)
+* [Installation](#installation)
+* [Related Flexmonster docs](#related-flexmonster-docs)
+* [Support and feedback](#support-and-feedback)
+* [Flexmonster licensing](#flexmonster-licensing)
+* [Social media](#social-media)
 
 ## Prerequisites
 
@@ -41,3 +44,22 @@ npm start
 ## Related Flexmonster docs
 
 - [Integration with Electron](https://www.flexmonster.com/doc/integration-with-electron-js/?r=gh_electron) — learn how to integrate Flexmonster into an Electron.js project.
+
+## Support and feedback
+
+In case of any issues, visit our [troubleshooting section](https://www.flexmonster.com/doc/typical-errors?r=sample_electron). You can also search among the [resolved cases](https://www.flexmonster.com/technical-support?r=sample_electron) for a solution to your problem.
+
+To share your feedback or ask questions, contact our Tech team by raising a ticket on [Flexmonster Help Center](https://www.flexmonster.com/help-center?r=sample_electron). You can also find a list of samples, technical specifications, and a user interface guide there.
+
+## Flexmonster licensing
+
+To learn about Flexmonster Pivot licenses, visit the [Flexmonster licensing page](https://www.flexmonster.com/pivot-table-editions-and-pricing?r=sample_electron). 
+If you want to test our product, we provide a 30-day free trial.
+
+If you need any help with your license — fill out our [Contact form](https://www.flexmonster.com/contact-our-team?r=sample_electron), and we will get in touch with you.
+
+## Social media
+
+Follow us on social media and stay updated on our development process!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/flexmonster) [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/user/FlexMonsterPivot) [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/flexmonster)
