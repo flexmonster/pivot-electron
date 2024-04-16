@@ -1,5 +1,5 @@
 # Flexmonster Pivot Table &amp; Charts integration with Electron.js
-[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com/?r=gh_electron)
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/readmes/electron.webp)](https://www.flexmonster.com/?r=gh_electron)
 Website: [www.flexmonster.com](https://www.flexmonster.com/?r=gh_electron)
 
 ## Flexmonster Pivot Table & Charts
